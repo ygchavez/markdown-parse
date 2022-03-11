@@ -1,7 +1,6 @@
-# title
+# Title
 
-[stuff]
+[a link!](https://something.com)
+[another link!](some-page.html)
 
-paragraph
-
-(page.com)
+some paragraph text after the links
